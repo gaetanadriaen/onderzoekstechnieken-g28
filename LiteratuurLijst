@@ -1,0 +1,35 @@
+% This file was created with JabRef 2.10.
+% Encoding: Cp1252
+
+
+@Article{baldwin1956optimum,
+  Title                    = {The optimum strategy in blackjack},
+  Author                   = {Baldwin, Roger R and Cantey, Wilbert E and Maisel, Herbert and McDermott, James P},
+  Journal                  = {Journal of the American Statistical Association},
+  Year                     = {1956},
+  Number                   = {275},
+  Pages                    = {429--439},
+  Volume                   = {51},
+
+  Publisher                = {Taylor \& Francis}
+}
+
+@Article{benjamin1993optimal,
+  Title                    = {Optimal Blackjack Strategy with" Lucky Bucks"},
+  Author                   = {Benjamin, Arthur T and Huggins, Eric},
+  Journal                  = {Journal of Undergraduate Mathematics and Its Applications},
+  Year                     = {1993}
+}
+
+@Article{thorp1961favorable,
+  Title                    = {A favorable strategy for twenty-one},
+  Author                   = {Thorp, Edward},
+  Journal                  = {Proceedings of the National Academy of Sciences of the United States of America},
+  Year                     = {1961},
+  Number                   = {1},
+  Pages                    = {110},
+  Volume                   = {47},
+
+  Publisher                = {National Academy of Sciences}
+}
+
