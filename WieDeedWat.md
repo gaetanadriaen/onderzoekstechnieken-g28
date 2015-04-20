@@ -5,5 +5,7 @@ Wiebe: Heeft naar papers gezocht waar er bepaalde al bestaande tactieken uitgele
        verwerkt in jabref
 
 Gaetan: Heeft de onderzoeksvraag onderzocht en verschillende deelvragen opgesteld.
+	
 
 Thomas: Heeft het simulatie programma grondig getest op verschillende tactieken en zo een grondige hoeveelheid data verzamelt.
+	Heeft het programma geschreven waarin we de data gesimileerd hebben. Grafiek gemaakt met analyse van 2 variabele.
