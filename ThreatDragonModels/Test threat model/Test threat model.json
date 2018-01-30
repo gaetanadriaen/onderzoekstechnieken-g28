@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Test threat model",
+    "owner": "Thomas Dejagere",
+    "description": "This is a high level system description"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Bram"
+  }
+}
